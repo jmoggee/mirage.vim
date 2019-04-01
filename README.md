@@ -45,12 +45,6 @@ Italics are a fantastic way to improve the appearance of your code. Italics will
 let g:mirage_terminal_italics=1
 ```
 
-## Contributors
-
-Contribute to this color scheme and earn your spot in this section of the README.
-
-* Jean Moggee [@jmoggee](https://github.com/jmoggee/)
-
 [mirageLink]: https://marketplace.visualstudio.com/items?itemName=tristanremy.mirage
 [onedark]: https://github.com/joshdick/onedark.vim
 [palenight]: https://github.com/drewtempelmeyer/palenight.vim
