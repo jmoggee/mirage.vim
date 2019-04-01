@@ -1,6 +1,4 @@
-![mirage.vim]
-
-A dark color scheme for Vim/Neovim based off the [VSCode Mirage][mirageLink] color scheme. Much of the work is based on the lovely [onedark.vim][onedark] and [palenight.vim][palenight] color scheme.
+A dark color scheme for Vim/Neovim based off the vscode [Mirage][mirageLink] color scheme. Much of the work is based on the lovely [onedark.vim][onedark] and [palenight.vim][palenight] color scheme.
 
 ## Installation
 Using [vim-plug][vimplug] (modify this to work with your Vim package manager of choice):
