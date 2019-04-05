@@ -1,6 +1,6 @@
-![mirage.vim]
+# mirage.vim
 
-A dark color scheme for Vim/Neovim based off the [VSCode Mirage][mirageLink] color scheme. Much of the work is based on the lovely [onedark.vim][onedark] and [palenight.vim][palenight] color scheme.
+A dark color scheme for Vim/Neovim based off the vscode [Mirage][mirageLink] color scheme. Much of the work is based on the lovely [onedark.vim][onedark] and [palenight.vim][palenight] color scheme.
 
 ## Installation
 Using [vim-plug][vimplug] (modify this to work with your Vim package manager of choice):
@@ -44,12 +44,6 @@ Italics are a fantastic way to improve the appearance of your code. Italics will
 " Italics for my favorite color scheme
 let g:mirage_terminal_italics=1
 ```
-
-## Contributors
-
-Contribute to this color scheme and earn your spot in this section of the README.
-
-* Jean Moggee [@jmoggee](https://github.com/jmoggee/)
 
 [mirageLink]: https://marketplace.visualstudio.com/items?itemName=tristanremy.mirage
 [onedark]: https://github.com/joshdick/onedark.vim
