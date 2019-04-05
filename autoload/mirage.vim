@@ -17,7 +17,7 @@ let s:colors = {
       \ "black": get(s:overrides, "black", { "gui": "#1c2838", "cterm": "235", "cterm16": "0" }),
       \ "visual_black": get(s:overrides, "visual_black", { "gui": "NONE", "cterm": "NONE", "cterm16": "0" }),
       \ "comment_grey": get(s:overrides, "comment_grey", { "gui": "#42587e", "cterm": "59", "cterm16": "15" }),
-      \ "gutter_fg_grey": get(s:overrides, "gutter_fg_grey", { "gui": "#28354d", "cterm": "238", "cterm16": "15" }),
+      \ "gutter_fg_grey": get(s:overrides, "gutter_fg_grey", { "gui": "#42587e", "cterm": "238", "cterm16": "15" }),
       \ "cursor_grey": get(s:overrides, "cursor_grey", { "gui": "#2C323C", "cterm": "236", "cterm16": "8" }),
       \ "visual_grey": get(s:overrides, "visual_grey", { "gui": "#3E4452", "cterm": "237", "cterm16": "15" }),
       \ "menu_grey": get(s:overrides, "menu_grey", { "gui": "#3E4452", "cterm": "237", "cterm16": "8" }),
